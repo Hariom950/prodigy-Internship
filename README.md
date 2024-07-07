@@ -1,1 +1,1 @@
-# prodigy-Internship
+# prodigy-internship
